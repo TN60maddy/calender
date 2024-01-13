@@ -1,0 +1,12 @@
+body {
+    background-image: url("snowfall.jpg") ;
+    background-size: cover;
+    font-family: sans-serif;
+}
+table{
+    background-image: url("snowfall.jpg");
+    width:100%;
+}
+h1{
+    color: red;
+}
